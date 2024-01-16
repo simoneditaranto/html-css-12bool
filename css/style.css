@@ -1,9 +1,7 @@
-body{
-    color: white;
-}
-
 [class*="col-"]{
     padding: 20px;
+
+    color: white;
 
     text-align: center;
 
@@ -12,12 +10,16 @@ body{
     background-color: #006CFA;
 }
 
-h1, h2, h3{
-    color: black;
-}
-
 .green{
     border: 1px solid #006CFA;;
 
     background-color: #00E165;
+}
+
+.h-120{
+    height: 120px;
+}
+
+.h-60{
+    height: 60px;
 }

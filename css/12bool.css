@@ -49,6 +49,14 @@
 .justify-between{
     justify-content: space-between;
 }
+
+.align-self-center{
+    align-self: center;
+}
+
+.align-self-end{
+    align-self: self-end;
+}
 /* fine modificatori flex */
 
 
