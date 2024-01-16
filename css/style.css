@@ -1,0 +1,21 @@
+body{
+    color: white;
+}
+
+[class*="col-"]{
+    padding: 25px;
+
+    text-align: center;
+
+    border: 1px solid white;
+
+    background-color: #006CFA;
+}
+
+h1{
+    color: black;
+}
+
+.green{
+    background-color: #00E165;
+}
