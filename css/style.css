@@ -17,5 +17,7 @@ h1, h2{
 }
 
 .green{
+    border: 1px solid #006CFA;;
+
     background-color: #00E165;
 }
