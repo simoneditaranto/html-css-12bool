@@ -17,6 +17,10 @@
     flex-wrap: wrap;
 }
 
+.mb-1{
+    margin-bottom: 30px;
+}
+
 
 /* regola generica per tutte le colonne */
 [class*="col-"]{
@@ -28,9 +32,24 @@
     */
 }
 
-.mb-1{
-    margin-bottom: 30px;
+
+/* modificatori flex */
+.justify-center{
+    justify-content: center;
 }
+
+.justify-end{
+    justify-content: flex-end;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+/* fine modificatori flex */
 
 
 
