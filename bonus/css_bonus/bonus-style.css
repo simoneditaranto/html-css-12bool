@@ -1,0 +1,11 @@
+[class*="col-"]{
+    padding: 20px 0;
+}
+
+.black{
+    background-color: #2C2B2C;
+}
+
+.light-black{
+    background-color: #2E323D;
+}
