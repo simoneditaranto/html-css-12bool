@@ -1,3 +1,9 @@
+.container{
+    margin-top: 20px;
+
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
 [class*="col-"]{
     padding: 20px 0;
 }
@@ -40,4 +46,32 @@
 
 .dark-blu{
     background-color: #1F2A54;
+}
+
+.violet{
+    background-color: #652A4C;
+}
+
+.blu-second{
+    background-color: #2C347F;
+}
+
+.light-blu{
+    background-color: #4C55DB;
+}
+
+.light-red{
+    background-color: #E23149;
+}
+
+.light-bord{
+    background-color: #910833;
+}
+
+.light-yellow{
+    background-color: #D8AE3E;
+}
+
+.yellow{
+    background-color: #775100;
 }
